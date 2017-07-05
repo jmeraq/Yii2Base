@@ -46,6 +46,9 @@ AppAsset::register($this);
                 'label' => 'Acerca de ', 
                 'url' => ['/site/about']
             ],[
+                'label' => 'Git lo mejor', 
+                'url' => ['/site/index']
+            ],[
                 'label' => 'Contacto', 
                 'url' => ['/site/contact']
             ],[
