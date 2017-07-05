@@ -37,6 +37,9 @@ AppAsset::register($this);
     ]);
         $menuItems = [
             [
+                'label' => 'Nuevo Menu', 
+                'url' => ['/site/index']
+            ],[
                 'label' => 'Inicio', 
                 'url' => ['/site/index']
             ],[
